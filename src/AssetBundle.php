@@ -1,5 +1,5 @@
 <?php
-namespace webtoucher\cookie;
+namespace head26\cookie;
 
 use yii\web\AssetBundle as BaseAssetBundle;
 /**
